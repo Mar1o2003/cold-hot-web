@@ -26,7 +26,7 @@
 
 1. **Склонируйте репозиторий**:
    ```bash
-   git clone https://github.com/KirillSher/cold-hot.git
+   git clone https://github.com/Mar1o2003/cold-hot-web
    ```
 
 2. **Перейдите в каталог проекта**:
@@ -37,4 +37,4 @@
 3. **Откройте файл index.html в вашем браузере**
 
 4. **Запуск через GitHub Pages**:
-    Проект доступен онлайн через GitHub Pages: [Играть в cold-hot](https://kirillsher.github.io/cold-hot-web/)
+    Проект доступен онлайн через GitHub Pages: [Играть в cold-hot]([https://mar1o2003.github.io/cold-hot-web/)
